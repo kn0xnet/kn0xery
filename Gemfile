@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'sinatra'
+gem 'dropbox-sdk', :git => 'https://github.com/kn0xnet/dropbox-sdk-ruby.git'
+gem 'unicorn'
+gem 'shotgun'
+gem 'json'
+gem 'thin'
+gem 'rake'
+gem 'httparty'
