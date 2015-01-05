@@ -1,0 +1,3 @@
+runtime: ruby21
+run: exec shotgun --server=thin --port=8000 app.rb
+build_config: exec rake config:encrypt
