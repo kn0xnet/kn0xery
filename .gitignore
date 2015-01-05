@@ -2,3 +2,4 @@
 /vendor/
 /config.yaml
 Gemfile.lock
+db/datastore.db
